@@ -86,8 +86,8 @@ VITE_API_URL=http://localhost:5000/api
 
 ## Deployment guide
 This repository is ready for deployment to:
-- Backend: Render / Railway
-- Frontend: Vercel / Netlify
+- Backend: Render 
+- Frontend: Vercel
 - Database: MongoDB Atlas
 
 Detailed deployment steps are in `docs/deployment-guide.md`.
